@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uceraterpe.github.io/sitemap
+Sitemap: https://uceraterpe.github.io/app/sitemap
+Sitemap: https://uceraterpe.github.io/assets/sitemap
+Sitemap: https://uceraterpe.github.io/css/sitemap
+Sitemap: https://uceraterpe.github.io/includes/sitemap
+Sitemap: https://uceraterpe.github.io/item/sitemap
+Sitemap: https://uceraterpe.github.io/src/sitemap
